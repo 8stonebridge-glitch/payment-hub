@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx convex deploy && vite build",
+  "buildCommand": "npx vite build",
   "outputDirectory": "dist",
   "framework": "vite",
   "rewrites": [
